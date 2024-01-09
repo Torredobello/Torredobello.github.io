@@ -17,14 +17,14 @@ baseurl: ""
 title: Bright Arku
 
 # Short description of your site
-description: Research and Development Engineer
+description: Research and Development Engineer | Electrical Engineer
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - Robotics: "robotics"
+    - Renewable: "renewable"
   Research:
     - State-space stock assessment: "statespace"    
     - Length-based assessment: "lengthassess"
