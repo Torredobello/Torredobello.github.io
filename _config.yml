@@ -26,17 +26,17 @@ navbar-links:
   Projects:
     - Renewable: "renewable"
   Research:
-    - State-space stock assessment: "statespace"    
-    - Length-based assessment: "lengthassess"
-    - Recruitment processes: "recruitment"
-    - Spatial bycatch prediction: "spatialbycatch"    
-    - Mixing models to estimate diet: "mixingmodels"    
-  Workshops:
-    # - Mixing models: "work-mixingmodels"
-    - Intro to R: "work-introR"
+    - Solar System: "solar"    
+    - Wind System: "wind"
+    - Battery System: "battery"
+    - Hybrid System: "hybrid"    
+    - System Data: "data"    
+  #Workshops:
+  # - Mixing models: "work-mixingmodels"
+  # - Intro to R: "work-introR"
   Software: 
-    - WHAM: "wham"
-    - MixSIAR: "mixsiar"    
+    - MatLab: "MatLab"
+  #- MixSIAR: "mixsiar"    
   CV: "http://Torredobello.github.io/pdf/CV.pdf" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
