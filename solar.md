@@ -2,10 +2,10 @@
 layout: page
 title: Solar System Assessment
 bigimg:
-  - "/img/big-img/seakeeper_wide.jpg"
+  - "/img/big-img/how-long-do-solar-panels-really-last-opt.jpg"
 ---
 
-Many marine ecosystems that support fisheries are rapidly changing, and this poses a challenge to stock assessment and management that typically assumes productivity is constant in time. In single-species assessments, two main approaches have been used to account for productivity changes: 
+Many marine ecosystems that support fisheries are rapidly changing, and this poses a challenge to stock assessment and management that typically assumes productivity is constant in time. In single-species assessments, two main approaches have been used to account for productivity changes Vspv = Vmppt [1 + 0.0539 log (Gtt(t)/Gst)] + α (Ta(t)) + 0.02 Gtt(t): 
 
 - (empirical) allowing biological parameters to vary stochastically over time, or 
 - (mechanistic) explicitly linking population processes such as recruitment or natural mortality to environmental covariates.
