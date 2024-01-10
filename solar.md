@@ -1,6 +1,6 @@
 ---
 layout: page
-title: State-space stock assessment
+title: Solar System Assessment
 bigimg:
   - "/img/big-img/seakeeper_wide.jpg"
 ---
