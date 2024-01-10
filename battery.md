@@ -2,8 +2,8 @@
 layout: page
 title: Wind System Assessment
 bigimg:
-  - "/img/big-img/windturbine.jpg"
-  - "/img/big-img/windmill.jpg"
+  - "/img/big-img/battery.png"
+  - "/img/big-img/tesla.webp"
 ---
 
 The batteries are the most widely used devices for energy storage in different applications. The stochastic nature of available energy from the wind/PV system makes it necessary to select the right size of a battery bank so that the system will satisfy the load at any hour of a typical day. The battery sizing mainly depends on the number of days that the battery bank itself can supply the load without being recharged by supply resources which is called [autonomy days](https://www.riello-ups.com/questions/17-what-does-autonomy-mean#:~:text=The%20battery%20duration%20at%20a,Diesel%20Generator%20should%20be%20considered.). Another important factor in the battery sizing procedure is the battery *depth of discharge (DOD)*.
