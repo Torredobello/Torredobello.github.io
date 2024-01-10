@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wind System Assessment
+title: Battery System Assessment
 bigimg:
   - "/img/big-img/battery.png"
   - "/img/big-img/tesla.webp"
