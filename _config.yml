@@ -35,7 +35,7 @@ navbar-links:
   # - Mixing models: "work-mixingmodels"
   # - Intro to R: "work-introR"
   Software: 
-    - MatLab: "MatLab"
+    - MatLab: "matlab"
   #- MixSIAR: "mixsiar"    
   CV: "http://Torredobello.github.io/pdf/CV.pdf" 
 
