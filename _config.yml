@@ -8,13 +8,13 @@ url: "http://Torredobello.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://Randyansah.github.io/projectname"
+#url: "http://Torredobello.github.io/projectname"
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bright Arku
+title: Bright Arku Kwame
 
 # Short description of your site
 description: Research and Development Engineer | Electrical Engineer
@@ -26,16 +26,16 @@ navbar-links:
   Projects:
     - Renewable: "renewable"
   Research:
-    - Solar Assessment: "solar"    
-    - Wind Assessment: "wind"
-    - Battery Assessment: "battery"    
+    - Solar System: "solar"    
+    - Wind System: "wind"
+    - Battery System: "battery"
   #Workshops:
-    # - Mixing models: "work-mixingmodels"
- #   - Intro to R: "work-introR"
+  # - Mixing models: "work-mixingmodels"
+  # - Intro to R: "work-introR"
   Software: 
-    - Matlab: "matlab"
-   # - MixSIAR: "mixsiar"    
-  CV: "https://brianstock.github.io/pdf/CV.pdf"
+    - MatLab: "matlab"
+  #- MixSIAR: "mixsiar"    
+  CV: "http://Torredobello.github.io/pdf/CV.pdf" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,16 +43,16 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/home-icon-logo-design-simple-house-vector-36658737.webp"
 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
- #navbar-col: "sea blue"
+#navbar-col: "sea blue"
 # navbar-img: "/img/bgimage.png"
- #footer-col: " sea blue"
+#footer-col: "sea blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
@@ -69,14 +69,14 @@ author:
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: brightarku  # eg. daattali
+  linkedin: BrightArku  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
   #instagram: yourname # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
-  #telephone: yourphone   # eg. +14159998888
+  #telephone: +233242762856   # eg. +14159998888
   #steam: yourname     # eg. daattali
   #twitch: yourname    # eg. daattali
   #yelp: yourname      # eg. daattali
