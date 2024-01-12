@@ -45,7 +45,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/home-icon-logo-design-simple-house-vector-36658737.webp
 
 # --- Background colour/image options --- #
 
@@ -78,7 +78,7 @@ author:
   #instagram: yourname # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
-  telephone: +233242762856   # eg. +14159998888
+  #telephone: +233242762856   # eg. +14159998888
   #steam: yourname     # eg. daattali
   #twitch: yourname    # eg. daattali
   #yelp: yourname      # eg. daattali
@@ -99,7 +99,7 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  telephone: true
+  telephone: false
   steam: false
   twitch: false
   yelp: false
