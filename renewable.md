@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Renewable Energy
-title-img: "img/big-img/home-icon-logo-design-simple-house-vector-36658737.webp"
 bigimg:
   - "/img/big-img/96879394.jpeg"
   - "/img/big-img/UNECE-Renewable-Energy-Status-Report-green-energy-way-out-climate-change-woes.jpg"
   - "/img/big-img/renewable_earth-1024x546.png.webp"
   - "/img/big-img/renewable_energy_campaign.png"
 ---
+title-img: "img/big-img/home-icon-logo-design-simple-house-vector-36658737.webp"
 
 ### Renewable Energy
 Renewable energy provides major benefits that should be taken seriously. Learn more about renewable energy and how you can help reduce emissions with this guide!
