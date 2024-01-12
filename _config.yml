@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bright Arku
+#title: Bright Arku Kwame
 
 # Short description of your site
 description: Research and Development Engineer | Electrical Engineer
@@ -64,7 +64,7 @@ title-img: /img/home-icon-logo-design-simple-house-vector-36658737.webp
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Bright Arku
+  name: Bright Arku Kwame
   email: "arku.bright@gmail.com"
   #facebook: yourname  # eg. daattali
   github: Torredobello    # eg. daattali
