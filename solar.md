@@ -28,5 +28,4 @@ where 𝜂𝑝𝑣 represents the PV generator efficiency and is given by:
 where 𝜂𝑟 is the reference module efficiency, 𝜂𝑝𝑐 is the power conditioning efficiency which is equal to 1 if a perfect maximum power tracker (MPPT) is used. β is the generator efficiency temperature coefficient, it is assumed to be a constant and for silicon cells the range of β is 0.004–0.006 per (°C), 𝑇𝑐𝑟𝑒𝑓 is the reference cell temperature (°C) and 𝑇𝑐 is the cell temperature (°C) and can be calculated as follows:
 - 𝑇𝑐= T + (( NOCT − 20)/ 800)×𝐺𝑡 (6)
 where T is the ambient temperature (°C) and NOCT is the nominal cell operating temperature (°C). 𝜂𝑝𝑐, β, NOCT and 𝐴𝑝𝑣 , are parameters that depend upon the type of module used. The data are obtained from the PV module manufacturers.
-
-<iframe width="560" height="315" src="https://youtu.be/xKxrkht7CpY?si=4I5iS8dkyoJ5zlc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xKxrkht7CpY?si=4I5iS8dkyoJ5zlc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
