@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Renewable Energy
+title-img: "img/big-img/home-icon-logo-design-simple-house-vector-36658737.webp"
 bigimg:
   - "/img/big-img/96879394.jpeg"
   - "/img/big-img/UNECE-Renewable-Energy-Status-Report-green-energy-way-out-climate-change-woes.jpg"
