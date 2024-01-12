@@ -17,27 +17,25 @@ baseurl: ""
 title: Bright Arku
 
 # Short description of your site
-description: Research and Development Engineer | AI and ML Engineer | Roboticist
+description: Research and Development Engineer | Electrical Engineer
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - Robotics: "robotics"
+    - Renewable: "renewable"
   Research:
-    - State-space stock assessment: "statespace"    
-    - Length-based assessment: "lengthassess"
-    - Recruitment processes: "recruitment"
-    - Spatial bycatch prediction: "spatialbycatch"    
-    - Mixing models to estimate diet: "mixingmodels"    
-  Workshops:
+    - Solar Assessment: "solar"    
+    - Wind Assessment: "wind"
+    - Battery Assessment: "battery"    
+  #Workshops:
     # - Mixing models: "work-mixingmodels"
-    - Intro to R: "work-introR"
+ #   - Intro to R: "work-introR"
   Software: 
-    - WHAM: "wham"
-    - MixSIAR: "mixsiar"    
-  CV: "https://brianstock.github.io/pdf/BrianStock_CV_current.pdf"
+    - Matlab: "matlab"
+   # - MixSIAR: "mixsiar"    
+  CV: "https://brianstock.github.io/pdf/CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -52,9 +50,9 @@ navbar-links:
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
+ navbar-col: "sea blue"
 # navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
+ footer-col: " sea blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
@@ -64,14 +62,14 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Brian Stock
-  email: "brian.stock@noaa.gov"
+  name: Bright Arku Kwame
+  email: "arku.bright@gmail.com"
   #facebook: yourname  # eg. daattali
-  github: brianstock    # eg. daattali
+  github: Torredobello    # eg. daattali
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  #linkedin: yourname  # eg. daattali
+  linkedin: brightarku  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
@@ -92,7 +90,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
