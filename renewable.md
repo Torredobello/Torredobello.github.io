@@ -7,7 +7,6 @@ bigimg:
   - "/img/big-img/renewable_earth-1024x546.png.webp"
   - "/img/big-img/renewable_energy_campaign.png"
 ---
-title-img: "img/big-img/home-icon-logo-design-simple-house-vector-36658737.webp"
 
 ### Renewable Energy
 Renewable energy provides major benefits that should be taken seriously. Learn more about renewable energy and how you can help reduce emissions with this guide!
